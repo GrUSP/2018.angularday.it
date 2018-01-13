@@ -1,0 +1,59 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+list:
+  -
+    id: gianmarcotoso
+    description:
+    image: toso.png
+    first_name: Gian Marco
+    last_name: Toso
+    twitter: gianmarcotoso
+  -
+    id: apomic80
+    description:
+    image: apomic.jpg
+    first_name: Michele
+    last_name: Aponte
+    twitter: apomic80
+  -
+    id: michelmurabito
+    description:
+    image: michelmurabito.jpg
+    first_name: Michel
+    last_name: Murabito
+    twitter: michelmurabito
+  -
+    id: jiayi-hu
+    description:
+    image: jiayi.jpg
+    first_name: Jiayi
+    last_name: Hu
+    twitter: jiayi_ghu
+  -
+    id: maksim-sinik
+    description:
+    image: maksim-sinik.png
+    first_name: Maksim
+    last_name: Sinik
+    twitter: maksimsinik
+  -
+    id: michele-stieven
+    description:
+    image: michele-stieven.jpg
+    first_name: Michele
+    last_name: Stieven
+    twitter:
+  -
+    id: alessandro-giorgetti
+    description:
+    image: alessandro-giorgetti.png
+    first_name: Alessandro
+    last_name: Giorgetti
+    twitter: a_giorgetti
+  -
+    id: alessandro-avolio
+    description:
+    image: alessandro-avolio.jpg
+    first_name: Alessandro
+    last_name: Avolio
+    twitter:

@@ -1,0 +1,96 @@
+-
+  speaker_id: gianmarcotoso
+  image: toso.png
+  title: State Management with Redux
+  keynote: false
+  extract: >
+    Un'introduzione di alto livello a Redux e una panoramica su come utilizzarlo con Angular.
+-
+  speaker_id: apomic80
+  image: apomic.jpg
+  title: "Un framework sul framework: generare una SPA dinamicamente in Angular"
+  extract: >
+    Avevamo la necessità di realizzare il pannello di amministrazione della nuova
+    versione del nostro CMS in modo che fosse una SPA dinamica e pluggabile a
+    partire dalle informazioni che arrivano dal back-end: abbiamo scelto Angular
+    e abbiamo creato dei componenti che dinamicamente generano la UI sulla base
+    dello schema JSON fornito dal backend. In questa sessione vedremo come spingere
+    Angular a un tale livello di astrazione e come Typescript e RxJS rendono il
+    tutto semplice e manutenibile.
+-
+  speaker_id:
+    - michelmurabito
+  image: michelmurabito.jpg
+  title: Superheroes apps con Angular e Firebase
+  extract: >
+    Quale database sceglierebbe Bruce Wayne? Come Tony Stark gestirebbe lo storage?
+    J.A.R.V.I.S. come automatizzerebbe alcune operazioni sui dati?
+    Nel 2017, vediamo insieme come realizzare applicazioni realtime con AngularJS
+    e Firebase per imparare a volare anche senza super poteri... O quasi...
+-
+  speaker_id:
+    - jiayi-hu
+  image: jiayi.jpg
+  title: Automatic UI library documentation with Typescript AST
+  extract: >
+    La documentazione è una fase fondamentale dello sviluppo, in particolare di
+    una libreria di componenti UI condivisa e utilizzata da diversi team o persone.
+    Tuttavia è estremamente tedioso ed error-prone mantenerla consistente, corretta
+    ed aggiornata.
+
+    Uno dei vantaggi dell'utilizzo di Typescript è invece proprio avere codice
+    autodocumentato, che fornisca informazioni sul tipo di dati che il componente
+    può ricevere e fornire.
+
+    In questo talk verrà spiegato e mostrato cosa sia un Abstract Syntax Tree di un linguaggio,
+    in particolare di Typescript, e come esso possa essere sfruttato per generare
+    automaticamente la documentazione di un set di componenti UI scritti in Angular e Typescript.
+-
+  speaker_id:
+    - maksim-sinik
+  image: maksim-sinik.png
+  title: Reactive programming in Angular con RxJS
+  extract: >
+    RxJS è una libreria che permette di lavorare con stream asincroni di dati. In questo talk introdurremo i concetti di base della libreria e come possiamo usarla con profitto in applicazioni Angular.
+    Nello specifico parleremo:
+    - Concetti base degli Observable
+    - Subjects e Multicasting Operators
+    - Principali operatori
+    - Esempi pratici in angular
+-
+  speaker_id:
+    - alessandro-giorgetti
+  image: alessandro-giorgetti.png
+  title: "Angular Testing: ma devo proprio farlo?!"
+  extract: >
+    Testare una applicazione Angular non è sempre semplice ed immediato, soprattutto al crescere della complessità dell'applicazione stessa.
+    Tuttavia è una pratica che non possiamo più permetterci di trascurare: è finito il tempo dei 'banali' data-entry!
+    Conoscere le armi a nostra disposizione è fondamentale per ridurre al minimo i difetti presenti nelle applicazioni: diverse technologie, tools e test frameworks interagiscono e si integrano tra di loro a costituire un ambiente di testing stabile e ben definito.
+    Possiamo scegliere quali strumenti utilizzare a seconda della tipologia di test e dello scenario da verificare: dal singolo componente / direttiva, al servizio fino al testing dell'intero sistema.
+    Vedremo come realizzare Unit Test ed End-to-End test in Angular utilizzando le utility messe a disposizione dal test framework, seguendo alcune best practice, affrontando diversi scenari ed evitando alcune trappole.
+-
+  speaker_id:
+    - michele-stieven
+  image: michele-stieven.jpg
+  title: Reactive Forms Overview
+  extract: >
+    Durante questa sessione analizziamo i costrutti e le nuove funzionalità dei Reactive Forms creando un form di registrazione:
+    - Introduzione ai Reactive Forms e differenze con i template-driven form
+    - Illustrazione di concetti principali del modulo: FormControl, FormGroup, FormArray, AbstractControl.
+    - Form e data model
+    - Gestione stato di Form e FormControl: touched, dirty, invalid
+    - Manipolazione di un form: setValue, patchValue, reset.
+    - Introduzione a FormBuilder
+    - Angular Built-in Validators e gestione errori
+    - Custom Validators
+-
+  speaker_id:
+    - alessandro-avolio
+  image: alessandro-avolio.jpg
+  title: Usare Angular su un progetto da 3.5 milioni di euro
+  extract: >
+    Sappiamo tutti sviluppare in 5 minunti un piccolo progetto con Angular CLI. Ma come cambiano le cose quando si passa
+    su un progetto reale e di grandi dimensioni? In questo talk vi parlerò di alcuni problemi che il team in cui lavoro
+    ha dovuto affrontare e le soluzioni che abbiamo adottato per diventare velocissimi, flessibili e bravi a scrivere
+    codice facile da mantenere. Vedremo quindi come gestire l’autenticazione, realizzare complessi componenti riusabili,
+    disegnare pagine di ricerca e form componibili, gestire i flussi interni all’applicazione.

@@ -1,0 +1,52 @@
+---
+title: Programma
+---
+
+<div class="limit limit--top-margin">
+
+  {% include schedule/intro.html date='15 Giugno' %}
+
+  <div class="schedule" data-dates="1-25,5-12,1-24">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html tracks='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='8.30 - 9.30' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='9.30 - 9.40' title='Presentazione GrUSP' name='Cesare D\'Amico' fill='true' %}
+        {% include schedule/event.html time='9.40 - 9.50' title='Presentazione Angular Developer Italiani e Angular Day' name='Fabio Biondi' fill='true' %}
+
+        {% include schedule/talk.html time='9.50 - 10.40' title='Un framework sul framework: generare una SPA dinamicamente in Angular' speaker_id='apomic80' fill='true' %}
+
+        {% include schedule/pause.html time='10.40 - 11.00' title='Pausa breve' icon="coffee" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html time='11.00 - 11.50' title='State Management with Redux' speaker_id='gianmarcotoso' fill='true' %}
+          {% include schedule/talk.html time='11.50 - 12.40' title='Reactive programming in Angular con RxJS' speaker_id='maksim-sinik' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='12.40 - 14.10' title='Pranzo + 3 mini talk' icon="food" fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html time='14.10 - 14.40' title='Reactive Forms Overview' speaker_id='' fill='true' %}
+          {% include schedule/talk.html time='14.40 - 15.30' title='Superheroes apps con Angular e Firebase' speaker_id='' fill='true' %}
+          {% include schedule/talk.html time='15.30 - 16.00' title='Usare Angular su un progetto da 3.5 milioni di euro' speaker_id='' fill='true' %}
+        </tr>
+
+        {% include schedule/pause.html time='16.00 - 16.30' title='Coffee break' icon="coffee" fill='true' fill='true' %}
+
+        <tr>
+          {% include schedule/talk.html time='16.30 - 17.20' title='Angular Testing: ma devo proprio farlo?!' speaker_id='' fill='true' %}
+          {% include schedule/talk.html time='17.20 - 17.50' title='Automatic UI library documentation with Typescript AST' speaker_id='' fill='true' %}
+        </tr>
+
+        {% include schedule/event.html time='17.50 - 18.00' title='Bye bye dal GrUSP' fill='true' %}
+        {% include schedule/pause.html time='18.00 - 19.00' title='Happy hour' icon="bar" fill='true' %}
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% include index/newsletter.html %}
+{% include index/sponsors.html %}
