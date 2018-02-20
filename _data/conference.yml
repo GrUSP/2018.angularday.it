@@ -5,9 +5,9 @@ url: https://2018.angularday.it
 where_when: "Verona - 15 giugno 2018: conferenza"
 year: 2018
 since: 2017
-call_for_paper_url: https://goo.gl/forms/JtzGF3bcsJBmN5Uz1
-call_for_paper: false
+call_for_paper_url: https://goo.gl/forms/oZkzZ0BZBnN2Wtxi2
+call_for_paper: true
 call_for_sponsor: true
 talks_available: false
 schedule_available: false
-workshop_available: false
+workshop_available: true

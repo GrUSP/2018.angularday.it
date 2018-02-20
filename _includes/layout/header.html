@@ -16,6 +16,12 @@
 
         <div role="menubar" class="header__menu-desktop">
 
+          {% if site.data.conference.call_for_paper %}
+          <a href="{{ site.data.conference.call_for_paper_url }}" target="_blank" class="button" role="menuitem">
+            Call for paper
+          </a>
+          {% endif %}
+
           {% if site.data.conference.talks_available %}
             <a href="{{ site.baseurl }}/talks.html" class="button" role="menuitem">
               Talk
@@ -23,20 +29,15 @@
           {% endif %}
 
           {% if site.data.conference.workshop_available %}
-          <a href="http://www.fabiobiondi.com/blog/training/mastering-angular-components-and-directives/" class="button" role="menuitem" target="_blank">
+          <a href="{{ site.baseurl }}/workshop.html" class="button" role="menuitem">
             Corso
           </a>
           {% endif %}
-          
+
           {% if site.data.conference.schedule_available %}
             <a href="{{ site.baseurl }}/schedule.html" class="button" role="menuitem">
               Programma
             </a>
-          {% endif %}
-          {% if site.data.conference.call_for_paper %}
-          <a href="{{ site.data.conference.call_for_paper_url }}" target="_blank" class="button" role="menuitem">
-            Call for paper
-          </a>
           {% endif %}
           <a href="{{ site.baseurl }}/venue.html" class="button" role="menuitem">
             Dove
