@@ -80,6 +80,9 @@ silver:
     -
        url: http://www.ideato.it/?utm_source=angular
        image: ideato.svg
+    -
+       url: https://www.sparkfabrik.com/
+       image: sparkfabrik.svg
 bronze:
   price: € 300
   offer:
