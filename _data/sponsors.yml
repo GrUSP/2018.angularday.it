@@ -71,9 +71,9 @@ silver:
     - 2 biglietti gratuiti
   max: 16
   list:
-    # -
-    #   url: https://www.accenture.com/it-it/new-applied-now
-    #   image: accenture.svg
+    -
+      url: https://www.accenture.com/it-it/new-applied-now
+      image: accenture.svg
     # -
     #   url: http://www.trueblue.it/it
     #   image: trueblue.svg
