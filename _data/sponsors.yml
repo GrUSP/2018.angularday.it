@@ -32,6 +32,9 @@ main:
     - Banchetto principale 2m x 1m in sala o nella hall
   max: 1
   list:
+    -
+      url: https://www.accenture.com/it-it/new-applied-now
+      image: accenture.svg
 
 platinum:
   price: € 3,000
@@ -71,9 +74,6 @@ silver:
     - 2 biglietti gratuiti
   max: 16
   list:
-    -
-      url: https://www.accenture.com/it-it/new-applied-now
-      image: accenture.svg
     # -
     #   url: http://www.trueblue.it/it
     #   image: trueblue.svg
