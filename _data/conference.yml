@@ -11,3 +11,14 @@ call_for_sponsor: true
 talks_available: false
 schedule_available: false
 workshop_available: true
+
+iubenda:
+  cookiePolicyId: 37246326
+  siteId: 1100245
+  lang: it
+  enableRemoteConsent: true
+  localConsentDomain: angularday.it
+  rebuildIframe: true
+
+google:
+  tag_manager_id: GTM-KKVG635
