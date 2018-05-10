@@ -64,6 +64,9 @@ gold:
      -
        url: https://www.workwave.com/?utm_source=angular
        image: workwave.svg
+     -
+       url: https://www.softwareuno.it/?utm_source=angular
+       image: softwareuno.svg
 
 silver:
   price: € 500
@@ -81,7 +84,7 @@ silver:
        url: http://www.ideato.it/?utm_source=angular
        image: ideato.svg
     -
-       url: https://www.sparkfabrik.com/
+       url: https://www.sparkfabrik.com/?utm_source=angular
        image: sparkfabrik.svg
 bronze:
   price: € 300
