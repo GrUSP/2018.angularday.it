@@ -8,8 +8,8 @@ since: 2017
 call_for_paper_url: https://goo.gl/forms/oZkzZ0BZBnN2Wtxi2
 call_for_paper: false
 call_for_sponsor: true
-talks_available: false
-schedule_available: false
+talks_available: true
+schedule_available: true
 workshop_available: true
 
 iubenda:

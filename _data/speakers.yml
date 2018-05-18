@@ -2,58 +2,51 @@
 # img/conf-name/speaker/file.jpg
 list:
   -
-    id: gianmarcotoso
+    id: emanuele-bartolesi
     description:
-    image: toso.png
-    first_name: Gian Marco
-    last_name: Toso
-    twitter: gianmarcotoso
+    image: emanuele-bartolesi.png
+    first_name: Emanuele
+    last_name: Bartolesi
+    twitter: kasuken
   -
-    id: apomic80
+    id: fabio-biondi
     description:
-    image: apomic.jpg
-    first_name: Michele
-    last_name: Aponte
-    twitter: apomic80
+    image: fabio-biondi.jpg
+    first_name: Fabio
+    last_name: Biondi
+    twitter: biondifabio
   -
-    id: michelmurabito
+    id: francesco-sciuti
     description:
-    image: michelmurabito.jpg
-    first_name: Michel
-    last_name: Murabito
-    twitter: michelmurabito
+    image: francesco-sciuti.jpg
+    first_name: Francesco
+    last_name: Sciuti
+    twitter: FrancescoSciuti
   -
     id: jiayi-hu
     description:
-    image: jiayi.jpg
+    image: jiayi-hu.jpg
     first_name: Jiayi
     last_name: Hu
     twitter: jiayi_ghu
   -
-    id: maksim-sinik
+    id: michel-murabito
     description:
-    image: maksim-sinik.png
-    first_name: Maksim
-    last_name: Sinik
-    twitter: maksimsinik
+    image: michel-murabito.jpg
+    first_name: Michel
+    last_name: Murabito
+    twitter: michelmurabito
   -
     id: michele-stieven
     description:
     image: michele-stieven.jpg
     first_name: Michele
     last_name: Stieven
-    twitter:
+    twitter: MicheleStieven
   -
-    id: alessandro-giorgetti
+    id: paolo-galfione
     description:
-    image: alessandro-giorgetti.png
-    first_name: Alessandro
-    last_name: Giorgetti
-    twitter: a_giorgetti
-  -
-    id: alessandro-avolio
-    description:
-    image: alessandro-avolio.jpg
-    first_name: Alessandro
-    last_name: Avolio
-    twitter:
+    image: paolo-galfione.jpg
+    first_name: Paolo
+    last_name: Galfione
+    twitter: paologalfione
