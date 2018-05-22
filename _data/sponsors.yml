@@ -47,9 +47,9 @@ platinum:
     - Banchetto 1m x 1m in sala o nella hall
   max: 4
   list:
-#    -
-#      url: http://www.ideato.it/?utm_source=phpday
-#      image: ideato.svg
+     -
+       url: https://www.workwave.com/?utm_source=angularday
+       image: workwave.svg
 
 gold:
   price: € 1,000
@@ -61,9 +61,6 @@ gold:
     - 3 biglietti gratuiti
   max: 8
   list:
-     -
-       url: https://www.workwave.com/?utm_source=angular
-       image: workwave.svg
      -
        url: https://www.softwareuno.it/?utm_source=angular
        image: softwareuno.svg
@@ -77,9 +74,9 @@ silver:
     - 2 biglietti gratuiti
   max: 16
   list:
-    # -
-    #   url: http://www.trueblue.it/it
-    #   image: trueblue.svg
+    -
+       url: http://www.addvalue.it/
+       image: addvalue.svg
     -
        url: http://www.ideato.it/?utm_source=angular
        image: ideato.svg
@@ -94,15 +91,9 @@ bronze:
     - 1 biglietto gratuito
   max: 32
   list:
-    # -
-    #   url: http://www.jetbrains.com/
-    #   image: jetbrains.svg
-    # -
-    #   url: http://www.blexin.com/
-    #   image: blexin.svg
-    # -
-    #   url: https://www.spindox.it/
-    #   image: spindox.svg
-    # -
-    #   url: http://www.datalytics.it/job
-    #   image: datalytics.svg
+    -
+      url: https://www.acadevmy.it/en/
+      image: acadevmy.jpg
+    -
+      url: https://www.spindox.it/
+      image: spindox.svg
