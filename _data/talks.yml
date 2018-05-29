@@ -9,13 +9,12 @@
   speaker_id:
     - paolo-galfione
   image: paolo-galfione.jpg
-  title: "Nx: un toolkit per le applicazioni Angular di classe Enterprise"
+  title: "Gestire applicazioni di classe Enterprise con Angular 6 e Schematics"
   extract: >
-    Nx è un toolkit per la creazione e la gestione di applicazioni Angular aziendali complesse e articolate. Grazie ad
-    un approccio basato sul pattern mono-repo Nx estende le funzioni di Angular CLI utilizzando @angular-devkit/schematics
-    in maniera tale da rendere più semplice la gestione di molteplici applicazioni e librerie aziendali condividendo una
-    architettura applicativa comune e con delle regole facilmente condivisibili da parte dei diversi sviluppatori e team
-    coinvolti nello sviluppo.
+    Angular 6 introduce il concetto di workspace per la creazione di applicazioni Angular aziendali complesse e articolate.
+    Grazie ad un approccio basato sul pattern mono-repo un workspace può contenere più applicazioni e librerie condivisibili
+    tra le applicazioni stesse. Vedremo come progettare un workspace e sfruttare la potenza dei nuovi @angular-devkit/schematics
+    per automatizzare la generazione di codice applicativo pronto all’uso
 -
   speaker_id:
     - francesco-sciuti
