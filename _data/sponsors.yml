@@ -78,6 +78,9 @@ silver:
        url: http://www.addvalue.it/
        image: addvalue.svg
     -
+       url: http://www.bmeme.com/
+       image: bmeme.svg
+    -
        url: http://www.ideato.it/?utm_source=angular
        image: ideato.svg
     -
